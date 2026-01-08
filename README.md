@@ -23,7 +23,7 @@ I want this repository to show my progress and dedication toward becoming a bett
 
 ## 💡 Why "python-like-saurya"?
 
-Because this repo reflects the way **I**, Saurya, understand, learn, and write Python in my own style — simple, clean, 
+Because this repo reflects the way **I**, Saurya, understand, learn, and write Python in my own style — simple
 
 ## 📌 Future Plans
 
