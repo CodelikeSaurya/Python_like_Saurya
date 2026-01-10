@@ -13,7 +13,7 @@ I code daily, solve problems, revise topics, and explore new ideas to strengthen
 * ✔️ Daily Python practice programs
 * ✔️ Notes from the complete Python syllabus
 * ✔️ Mini projects and exercises
-* ✔️ Concepts like loops, functions, OOP, file handling, modules, exceptions
+* ✔️ Concepts like loops, functions, OOP, file handling, modules
 * ✔️ Problem-solving codes I write to improve logic
 
 ## 🚀 Goal
