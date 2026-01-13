@@ -25,7 +25,7 @@ I want this repository to show my progress and dedication toward becoming a bett
 
 Because this repo reflects the way **I**, Saurya, understand, learn, and write Python in my own style — simple
 
-## 📌 Future Plans
+# 📌 Future Plans
 
 * Add more projects
 * Learn advanced Python topics
