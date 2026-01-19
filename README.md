@@ -19,7 +19,7 @@ I code daily, solve problems, revise topics, and explore new ideas to strengthen
 ## 🚀 Goal
 
 To become consistent, confident, and creative in Python programming.
-I want this repository to show my progress and dedication toward becoming a better coder.
+I want this repository to show my progress and dedication toward becoming a better coder
 
 ## 💡 Why "python-like-saurya"?
 
