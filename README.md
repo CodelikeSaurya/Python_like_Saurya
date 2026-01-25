@@ -1,7 +1,7 @@
 # Python_like_Saurya
 #  python-like-saurya
 
-A personal learning journey where I practice Python every day and build my coding skills step-by-step.
+A personal learning journey where I practice Python every day and build my coding skills step-by-step
 
 ## 📘 About This Repository
 
