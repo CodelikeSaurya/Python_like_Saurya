@@ -6,7 +6,7 @@ A personal learning journey where I practice Python every day and build my codin
 ## 📘 About This Repository
 
 This repository is a collection of everything I learn in Python — from basics to advanced concepts.
-I code daily, solve problems, revise topics, and explore new ideas to strengthen my foundation.
+I code daily, solve problems, revise topics, and explore new ideas to strengthen my foundation
 
 ## 🎯 What This Repo Contains
 
